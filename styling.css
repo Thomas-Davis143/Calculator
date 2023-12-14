@@ -1,0 +1,40 @@
+html{
+    font-size: 62.5%;
+    max-width: 30%;
+    margin: auto;
+    width: 50%;
+    
+    
+}
+h1{
+    font-size: 3.8rem;
+}
+button{
+    background-color: rgb(168, 168, 168);
+    border-style: outset;
+    border-color: black;
+    color: white;
+    margin: .2rem;
+    font-size: 2rem;
+    width: 6rem;
+    height: 6rem;
+}
+.operator{
+    background-color: orange;
+    
+}
+.clear{
+    background-color: rgb(35, 18, 134);
+    
+}
+textarea{
+    font-size: 5rem;
+    color: white;
+    background-color: darkslategray;
+    width: 26rem;
+    height: 10rem;
+    border-style: inset;
+    border-color: black;
+    text-align: right;
+    
+}
